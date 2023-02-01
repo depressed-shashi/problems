@@ -22,9 +22,10 @@ int main() {
 	        }
 
 	}
-
-
+        
+        printf("\n");
 	printf("%d \n", count);
+	printf("\n\n");
 
 	for(i=2; i<=num/2;++i) {
 
